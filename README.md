@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Kyle!  
+![Open to Work](https://img.shields.io/badge/Open_to_Work-💼-green?style=flat-square)  
 
 🚀 **React & Firebase Engineer | MVP Development | Code Audits**  
 I help startups **build, scale, and optimize** their web apps with **React, Remix, and Firebase**. Whether you're launching an MVP, refactoring an existing codebase, or improving frontend performance, I can help.  
