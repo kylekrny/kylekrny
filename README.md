@@ -21,6 +21,6 @@ I help startups **build, scale, and optimize** their web apps with **React, Remi
 ## 📫 Get in Touch  
 💼 **Website:** [kylekrny.com](https://kylekrny.com)  
 💬 **LinkedIn:** [linkedin.com/in/kylekrny](https://www.linkedin.com/in/kylekrny)  
-📩 **Email:** [your.email@example.com](mailto:hello@kylekrny.com)  
+📩 **Email:** [kyle@kylekrny.com](mailto:hello@kylekrny.com)  
 
 ⚡ **Open to freelance projects, contract work, and collaborations!** Let's build something great.  
