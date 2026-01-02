@@ -18,6 +18,7 @@ My work regularly spans the full stack, including frontend systems, backend logi
 - Implement billing and payments with **Stripe**, including webhook-driven state synchronization
 - Own **CI/CD**, environment configuration, and release workflows for production applications
 - Emphasize test coverage, error handling, and long-term maintainability
+- Integrate LLM-based AI capabilities into applications, including prompt design and API-driven workflows.
 
 ---
 
