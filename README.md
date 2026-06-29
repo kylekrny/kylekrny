@@ -33,4 +33,4 @@ By moving asynchronous network orchestration, real-time database listeners, and 
 ---
 
 ## 📫 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+*   **LinkedIn:** [linkedin.com/in/kylekrny](https://www.linkedin.com/in/kylekrny)
