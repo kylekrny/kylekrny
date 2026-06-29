@@ -20,8 +20,6 @@ While I am framework-flexible, I specialize in designing **decoupled front-end a
 
 By moving asynchronous network orchestration, real-time database listeners, and external SDK drivers out of local UI states and into dedicated service abstractions, I build applications that are resilient to backend infrastructure changes.
 
-👉 *Check out my **[frontend-architecture-patterns](https://github.com/your-username/frontend-architecture-patterns)** repository for reference implementations, skeleton structures, and deep dives into multi-layered client-side caching.*
-
 ---
 
 ## 💻 Tech Stack & Tooling
